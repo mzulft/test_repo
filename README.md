@@ -1,1 +1,1 @@
-this is a readme for the repo 
+its easy u dont even have ti make it on the site 
