@@ -1,5 +1,1 @@
-# test
-
-this is an addition to this directory using the nano text editor via the cli
-
-this is a test to see if i have to readd this text file to staging after its been modified if it was in staging before the modification
+this is a test to see if the change is applied to the original repo
