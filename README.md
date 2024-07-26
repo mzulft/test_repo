@@ -1,1 +1,1 @@
-its easy u dont even have ti make it on the site 
+this is an atomic commit
